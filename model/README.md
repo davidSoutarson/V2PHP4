@@ -1,3 +1,3 @@
-### Le model:
+### Le modele:
 
-Les fichier du model socupe des operation efectuer avec la bases de donmer.
+Les fichier du model traite les données (tout operation efectuer avec la bases de donmer).
