@@ -1,3 +1,3 @@
 ### Le controleur:
 
-les fichier du controleu fon le lien les fichier et lindex.php
+les fichier du controleur fon le lien les fichier et lindex.php.
